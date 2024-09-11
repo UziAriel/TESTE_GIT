@@ -1,1 +1,2 @@
-Mi primera practica de git 
+Mi primera practica de git
+La vida es una lenteja 
